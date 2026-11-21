@@ -1,0 +1,14 @@
+{
+  "sleeves": [
+    {"name": "Bills", "return": 0.035, "volatility": 0.005, "reserve": true},
+    {"name": "10-year note", "return": 0.043, "volatility": 0.07, "reserve": true},
+    {"name": "Investment-grade bond fund", "return": 0.05, "volatility": 0.06, "reserve": false},
+    {"name": "Global equity index fund", "return": 0.08, "volatility": 0.16, "reserve": false}
+  ],
+  "correlations": [
+    [1.0, 0.10, 0.05, 0.00],
+    [0.10, 1.0, 0.80, -0.10],
+    [0.05, 0.80, 1.0, 0.25],
+    [0.00, -0.10, 0.25, 1.0]
+  ]
+}
