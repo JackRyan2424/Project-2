@@ -18,7 +18,7 @@ The Lab 20 readiness note reports a starting estimate of 6.51%, a prediction of 
 
 **Pre-run prediction by Jack Ryan, formulated with AI closed.**
 
-I will change the global equity shock in the one-month equity and credit selloff from **−15.00% to −12.00%**. I expect the scenario's net portfolio return to improve because the equity decline is smaller. I will keep the sticky-inflation inputs and portfolio allocation fixed. I expect the sticky-inflation stops to remain in place and would defer live adoption of the allocation.
+I will change the global equity shock in the one-month equity and credit selloff from **−15.00% to −12.00%**. I expect the scenario's net portfolio return to improve because the equity decline is smaller. I will keep the sticky-inflation inputs and portfolio allocation fixed. I expect the sticky-inflation stops to remain in place and would defer live adoption of the allocation. The timestamp/commits may be incorrect because I did the before and after scenario before I put the the changes into GitHub. 
 
 **Baseline to verify.** The figures reported with the prediction are a sticky-inflation loss of 10.16%, volatility of 11.98% versus a 10% cap, and bills of 3% versus a 5% floor. The [saved October 5 output](../visible-output.md) instead shows a 9.72% sticky-inflation loss, 11.04% volatility, and 3% bills. That saved run shows volatility and bills stops. Use the actual baseline screenshot to identify which run the fresh test uses.
 
